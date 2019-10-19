@@ -13,7 +13,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- seata version -->
-        <seata.version>0.8.1</seata.version>
+        <seata.version>0.9.0</seata.version>
     </properties>
 
     <dependencies>
